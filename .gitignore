@@ -1,6 +1,12 @@
-data_barks/
-splits/
+venv/
+__pycache__/
+*.pyc
+
 embeddings/
 models/
+results/
+
+.DS_Store
+
 fairseq/
 dog2vec/
