@@ -1,0 +1,10 @@
+file,true_label,predicted_label,confidence
+splits/test/dog_1/bark_005.wav,dog_1,dog_1,81.32
+splits/test/dog_2/bark_005.wav,dog_2,dog_2,61.07
+splits/test/dog_3/bark_004.wav,dog_3,dog_3,72.89
+splits/test/dog_3/bark_005.wav,dog_3,dog_3,70.66
+splits/test/dog_4/bark_0012.wav,dog_4,dog_4,89.49
+splits/test/dog_4/bark_002.wav,dog_4,dog_4,91.12
+splits/test/dog_4/bark_003.wav,dog_4,dog_4,95.04
+splits/test/dog_5/bark_003.wav,dog_5,dog_5,64.71
+splits/test/dog_5/bark_009.wav,dog_5,dog_4,55.31

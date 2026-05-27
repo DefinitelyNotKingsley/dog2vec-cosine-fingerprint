@@ -1,0 +1,6 @@
+data_barks/
+splits/
+embeddings/
+models/
+fairseq/
+dog2vec/
